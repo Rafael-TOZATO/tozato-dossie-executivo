@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./banner_modern_high_tech.jpg" alt="Modern High-Tech Software Engineering Banner" width="100%" />
+
 # 📊 Dossiê Técnico Executivo & Ecossistema de Certificações
 
 [![Deploy na Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://tozato-dossie-executivo.vercel.app)
