@@ -81,6 +81,14 @@ O dossiê aplica controles de Governança 4.0 para fortalecer integridade, rastr
 
 ---
 
+
+<div align="center">
+
+*Desenvolvido com rigor técnico e foco em Governança 4.0.*  
+**Rafael Ornelas Tozato**
+
+</div>
+
 ## 📬 CONTATOS E PERFIS
 
 * **🌐 Dashboard Online (Vercel):** https://tozato-dossie-executivo.vercel.app
@@ -99,12 +107,5 @@ O dossiê aplica controles de Governança 4.0 para fortalecer integridade, rastr
 - 🌐 **H-Folio:** [h-folio-psi.vercel.app](https://h-folio-psi.vercel.app)
 - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
-
-<div align="center">
-
-*Desenvolvido com rigor técnico e foco em Governança 4.0.*  
-**Rafael Ornelas Tozato**
-
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaeltozato81-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeltozato81)
