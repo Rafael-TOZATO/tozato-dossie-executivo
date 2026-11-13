@@ -82,10 +82,15 @@ O dossiê aplica controles de Governança 4.0 para fortalecer integridade, rastr
 ---
 
 
-<div align="center">
 
 *Desenvolvido com rigor técnico e foco em Governança 4.0.*  
 **Rafael Ornelas Tozato**
+
+<div align="center">
+
+[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/quality-gate.yml)
+[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/gitleaks.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/codeql.yml)
 
 </div>
 
