@@ -71,3 +71,24 @@ Este repositório armazena o código-fonte do **Dashboard Analítico Executivo e
 **Rafael Ornelas Tozato**
 
 </div>
+
+
+---
+
+## Governança 4.0 — Segurança e Qualidade
+
+O dossiê aplica controles de Governança 4.0 para fortalecer integridade, rastreabilidade e segurança do ciclo de vida da aplicação.
+
+- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
+- **SAST:** análise estática de JavaScript e TypeScript com GitHub CodeQL.
+- **Segurança de segredos:** varredura integral do histórico Git com Gitleaks Action v3.0.0.
+- **Menor privilégio:** permissões mínimas e checkout sem persistência de credenciais.
+- **Rastreabilidade:** execução dos controles em pushes e pull requests, com evidências mantidas no GitHub Actions.
+
+<div align="center">
+
+[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/quality-gate.yml)
+[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/gitleaks.yml)
+[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/codeql.yml)
+
+</div>
