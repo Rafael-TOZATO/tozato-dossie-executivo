@@ -7,15 +7,18 @@
 [![Deploy na Vercel](https://img.shields.io/badge/Deploy-Vercel-black?style=for-the-badge&logo=vercel)](https://tozato-dossie-executivo.vercel.app)
 [![Status do Sistema](https://img.shields.io/badge/Status-100%25%20Auditável-success?style=for-the-badge)]()
 [![Repositório Oficial](https://img.shields.io/badge/GitHub-Rafael--TOZATO-blue?style=for-the-badge&logo=github)](https://github.com/Rafael-TOZATO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaeltozato81-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeltozato81)
 
 </div>
+
+---
 
 ---
 
 ## 📌 Visão Geral do Projeto
 
 Este repositório armazena o código-fonte do **Dashboard Analítico Executivo e Dossiê de Certificações**, desenvolvido para consolidar e expor de forma interativa, auditável e em tempo real as credenciais técnicas, formações e projetos de engenharia e inteligência artificial de **Rafael Ornelas Tozato**.
+
+---
 
 ---
 
@@ -30,12 +33,16 @@ Este repositório armazena o código-fonte do **Dashboard Analítico Executivo e
 
 ---
 
+---
+
 ## 🛠️ Stack Tecnológica & Arquitetura
 
 * **Interface / Frontend:** React.js, Tailwind CSS, Componentes Glassmorphism Customizados.
 * **Hospedagem & Deploy Contínuo:** Vercel (Edge Network).
 * **Controle de Versão:** Git & GitHub com automação por Webhooks e Tokens Fine-Grained.
 * **Design System:** Dark Mode corporativo (Fundo #0b1329, destaques em Azul Ciano e Verde Neon).
+
+---
 
 ---
 
@@ -50,6 +57,30 @@ Este repositório armazena o código-fonte do **Dashboard Analítico Executivo e
 | **Engenharia de Software** | Lab Padrões de Projeto com Java (GoF) e Spring Framework (DIO) | ✅ Concluído |
 | **Governança & Processos** | Escola EDTI: Green Belt / White Belt em Lean Six Sigma | ✅ Concluído |
 | **Data Analytics & BI** | Formação Power BI, MySQL, Azure & Dashboards Corporativos | ✅ Concluído |
+
+---
+
+---
+
+## Governança 4.0 — Segurança e Qualidade
+
+Este repositório adota controles automatizados de Governança 4.0 para assegurar integridade dos artefatos e do código, rastreabilidade das alterações, gestão de dependências e prevenção de exposição de credenciais. Os controles são aplicados conforme a natureza técnica e os componentes efetivamente mantidos no projeto.
+
+- **Quality Gate:** validação automatizada do escopo do repositório, incluindo verificações de integridade, testes, análise estática, tipagem ou build quando aplicáveis.
+- **Segurança de segredos:** varredura do histórico Git com Gitleaks Action v3.0.0.
+- **SAST:** análise com GitHub CodeQL para linguagens suportadas e presentes no código-fonte.
+- **Dependências:** monitoramento automatizado e revisão de vulnerabilidades conforme os manifests e lockfiles existentes.
+- **Menor privilégio:** permissões mínimas nos workflows e checkout sem persistência desnecessária de credenciais.
+- **Rastreabilidade:** commits, execuções e resultados dos controles permanecem registrados no GitHub Actions.
+
+### Controles específicos do repositório
+
+O dossiê aplica controles de Governança 4.0 para fortalecer integridade, rastreabilidade e segurança do ciclo de vida da aplicação.
+- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
+- **SAST:** análise estática de JavaScript e TypeScript com GitHub CodeQL.
+- **Segurança de segredos:** varredura integral do histórico Git com Gitleaks Action v3.0.0.
+- **Menor privilégio:** permissões mínimas e checkout sem persistência de credenciais.
+- **Rastreabilidade:** execução dos controles em pushes e pull requests, com evidências mantidas no GitHub Actions.
 
 ---
 
@@ -72,23 +103,10 @@ Este repositório armazena o código-fonte do **Dashboard Analítico Executivo e
 
 </div>
 
+---
 
 ---
 
-## Governança 4.0 — Segurança e Qualidade
+## 📬 CONTATOS
 
-O dossiê aplica controles de Governança 4.0 para fortalecer integridade, rastreabilidade e segurança do ciclo de vida da aplicação.
-
-- **Quality Gate:** instalação reproduzível, auditoria de dependências, verificação TypeScript e build de produção.
-- **SAST:** análise estática de JavaScript e TypeScript com GitHub CodeQL.
-- **Segurança de segredos:** varredura integral do histórico Git com Gitleaks Action v3.0.0.
-- **Menor privilégio:** permissões mínimas e checkout sem persistência de credenciais.
-- **Rastreabilidade:** execução dos controles em pushes e pull requests, com evidências mantidas no GitHub Actions.
-
-<div align="center">
-
-[![Quality Gate](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/quality-gate.yml?branch=main&label=Quality%20Gate)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/quality-gate.yml)
-[![Gitleaks](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/gitleaks.yml?branch=main&label=Gitleaks)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/gitleaks.yml)
-[![CodeQL](https://img.shields.io/github/actions/workflow/status/Rafael-TOZATO/tozato-dossie-executivo/codeql.yml?branch=main&label=CodeQL)](https://github.com/Rafael-TOZATO/tozato-dossie-executivo/actions/workflows/codeql.yml)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaeltozato81-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeltozato81)
