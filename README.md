@@ -14,22 +14,13 @@
 
 ---
 
+---
+
 ## 📌 Visão Geral do Projeto
 
 Este repositório armazena o código-fonte do **Dashboard Analítico Executivo e Dossiê de Certificações**, desenvolvido para consolidar e expor de forma interativa, auditável e em tempo real as credenciais técnicas, formações e projetos de engenharia e inteligência artificial de **Rafael Ornelas Tozato**.
 
 ---
-
----
-
-## 🚀 Ecossistema e Canais Oficiais
-
-* **🌐 Dashboard Online (Vercel):** https://tozato-dossie-executivo.vercel.app
-* **📱 Aplicativo Principal (Dev Hub):** https://tozato-dev-hub.vercel.app
-* **💼 Perfil Profissional (LinkedIn):** https://www.linkedin.com/in/rafaeltozato81
-* **💻 Repositórios (GitHub):** https://github.com/Rafael-TOZATO
-* **✍️ Artigos & Publicações (Medium):** https://medium.com/@ornelas.tozato
-* **🏅 Perfil DIO & Credenciais:** https://web.dio.me/users/ornelas_tozato
 
 ---
 
@@ -46,6 +37,8 @@ Este repositório armazena o código-fonte do **Dashboard Analítico Executivo e
 
 ---
 
+---
+
 ## 📊 Matriz de Certificações Oficiais
 
 | Categoria / Domínio | Trilha / Instituição | Status |
@@ -57,6 +50,8 @@ Este repositório armazena o código-fonte do **Dashboard Analítico Executivo e
 | **Engenharia de Software** | Lab Padrões de Projeto com Java (GoF) e Spring Framework (DIO) | ✅ Concluído |
 | **Governança & Processos** | Escola EDTI: Green Belt / White Belt em Lean Six Sigma | ✅ Concluído |
 | **Data Analytics & BI** | Formação Power BI, MySQL, Azure & Dashboards Corporativos | ✅ Concluído |
+
+---
 
 ---
 
@@ -84,7 +79,18 @@ O dossiê aplica controles de Governança 4.0 para fortalecer integridade, rastr
 
 ---
 
-## 📬 Contatos
+---
+
+## 📬 CONTATOS E PERFIS
+
+* **🌐 Dashboard Online (Vercel):** https://tozato-dossie-executivo.vercel.app
+* **📱 Aplicativo Principal (Dev Hub):** https://tozato-dev-hub.vercel.app
+* **💼 Perfil Profissional (LinkedIn):** https://www.linkedin.com/in/rafaeltozato81
+* **💻 Repositórios (GitHub):** https://github.com/Rafael-TOZATO
+* **✍️ Artigos & Publicações (Medium):** https://medium.com/@ornelas.tozato
+* **🏅 Perfil DIO & Credenciais:** https://web.dio.me/users/ornelas_tozato
+
+---
 
 - 💼 **LinkedIn:** [rafaeltozato81](https://www.linkedin.com/in/rafaeltozato81)
 - 🐙 **GitHub:** [Rafael-TOZATO](https://github.com/Rafael-TOZATO)
@@ -94,19 +100,11 @@ O dossiê aplica controles de Governança 4.0 para fortalecer integridade, rastr
 - 🚀 **Aurora BI (Lovable):** [aurora-bi-dio.lovable.app](https://aurora-bi-dio.lovable.app)
 - 📜 **Microsoft Learn:** [Transcript](https://learn.microsoft.com/pt-br/users/rafaelornelastozato-2209/transcript/dzo2wizrzkx2853)
 
----
-
 <div align="center">
 
 *Desenvolvido com rigor técnico e foco em Governança 4.0.*  
 **Rafael Ornelas Tozato**
 
 </div>
-
----
-
----
-
-## 📬 CONTATOS
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rafaeltozato81-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafaeltozato81)
